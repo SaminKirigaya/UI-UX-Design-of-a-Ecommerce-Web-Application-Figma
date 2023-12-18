@@ -1,1 +1,1 @@
-<p style={{color:red;}}>HELLO EVERYONE</p>
+<p style={{color:"red";}}>HELLO EVERYONE</p>
